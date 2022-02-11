@@ -1,0 +1,5 @@
+ip=localhost
+puerto=5000
+contexto=/test
+backlog=0
+numHilos=10
